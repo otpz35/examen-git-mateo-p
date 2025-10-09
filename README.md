@@ -1,2 +1,2 @@
-# Proyecto de Examen
-Este repositorio forma parte del examen de control de versiones con Git.
+# Proyecto de Examen (Codigo) infoadicional
+Este repositorio NO forma parte del examen de DEScontrol de versiones con Git alo.
